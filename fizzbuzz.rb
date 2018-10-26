@@ -7,5 +7,6 @@ def fizzbuzz(x)
     x = fizz_3
   
   end
-    puts fizz_3
+ 
 end
+   puts fizz_3
