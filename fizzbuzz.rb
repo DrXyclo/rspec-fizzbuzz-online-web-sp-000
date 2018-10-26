@@ -1,6 +1,10 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
+def fizzbuzz
+end
 
+
+=begin 
 def fizzbuzz(x)
   if (x % 3 + x % 5) == 0 
     
@@ -18,4 +22,4 @@ def fizzbuzz(x)
   end
  
 end
-   
+=end 
