@@ -5,6 +5,7 @@ def fizzbuzz(x)
   if x % 3 == 0
     
     x = fizz_3
-    puts fizz_3
+  
   end
+    puts fizz_3
 end
