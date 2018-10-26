@@ -10,6 +10,10 @@ def fizzbuzz(x)
   
     puts "Buzz"
     
+  elsif x % 15 == 10 
+  
+  puts "FizzBuzz"
+    
   end
  
 end
