@@ -4,9 +4,9 @@ x = gets.strip
 def fizzbuzz(x)
   if x % 3 == 0
     
-    x = fizz_3
+    puts "Fizz"
   
   end
  
 end
-   puts fizz_3
+   
