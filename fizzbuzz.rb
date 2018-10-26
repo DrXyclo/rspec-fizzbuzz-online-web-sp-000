@@ -3,6 +3,6 @@
 
 def fizzbuzz(x)
   if x % 3 == 0
-    fizz_3 = x
+    x = fizz_3
   end
 end
